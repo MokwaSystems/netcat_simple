@@ -17,8 +17,7 @@ upload_destination  = ""
 port                = 0
 
 def usage():
-    print "Narziędzie Terminus Systems Netcat oparte na kodzie z książki Black
-    Hat Python Justin Seitz"
+    print "Narziędzie Terminus Systems Netcat oparte na kodzie z książki Black Hat Python Justin Seitz"
     print
     print "Sposób użycia: netcat_first.py -t target_host -p port"
     print "-l --listen              - nasłuchuje na [host]:[port] połączeń przychodzących"
